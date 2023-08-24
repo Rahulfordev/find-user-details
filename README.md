@@ -1,1 +1,1 @@
-# find user details by search user name
+# find user details by search username
